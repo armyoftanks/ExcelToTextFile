@@ -6,7 +6,7 @@
 #
 ######
 
-#community made library to handle logic between excel and powershell 
+#community made library to handle logic between excel and powershell. Documentation here --> https://github.com/dfinke/ImportExcel
 Import-Module ImportExcel 
 
 #template you want to use for batching 
