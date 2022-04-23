@@ -6,7 +6,8 @@
 #
 ######
 
-Import-Module ImportExcel - community made library to handle logic between excel and powershell 
+#community made library to handle logic between excel and powershell 
+Import-Module ImportExcel 
 
 #template you want to use for batching 
 $template = "local\file\path\file.name"
